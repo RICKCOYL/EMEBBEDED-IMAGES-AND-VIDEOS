@@ -64,3 +64,154 @@ input {
 }
 
 /*Styling the main body section*/
+
+iframe {
+    width: 700px;
+    height: 400px;
+}
+
+#video-tite {
+    position: relative;
+    left: 120px;
+}
+
+.views {
+    position: relative;
+    top: 10px;
+    left: 120px;
+    opacity: 70%;
+}
+
+.rate {
+    position: relative;
+    left: 400px;
+    bottom: 40px;
+}
+
+
+/*styling of the info area*/
+
+.like {
+    width: 60px;
+    height: 50px;
+}
+
+.like-text {
+    position: relative;
+    left: 396px;
+    bottom: 40px;
+    font-weight: bold;
+    opacity: 70%;
+}
+
+.dislike {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 410px;
+}
+
+.dislike-text {
+    position: relative;
+    left: 308px;
+    bottom: 40px;
+    font-weight: bold;
+    opacity: 70%;
+
+}
+
+.share-icon {
+    height: 40px;
+    position: relative;
+    left: 410px;
+    bottom: 40px;
+}
+
+.share-text {
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+    font-weight: bold;
+    opacity: 70%;
+
+
+}
+
+
+.line {
+    width: 700px;
+    position: relative;
+    right: 200px;
+    bottom: 20px;
+}
+
+.channel-name {
+    position: relative;
+    top: 40px;
+    left: 170px;
+}
+
+.profile-pic {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.sub-btn {
+    position: relative;
+    left: 700px;
+    bottom: 20px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20%;
+}
+
+.sec-line {
+    width: 700px;
+    position: relative;
+    right: 200px;
+    top: 10px;
+}
+
+.sub-notification {
+    position: relative;
+    left: 710px;
+    bottom: 10px;
+    opacity: 60%;
+}
+
+/*style for the video description and commment*/
+
+.video-discription {
+    position: relative;
+    bottom: 20px;
+    left: 170px;
+    font-family: monospace;
+    ;
+}
+
+.showmore {
+    position: relative;
+    left: 160px;
+    color: blue;
+}
+
+.comment-header {
+    position: relative;
+    left: 140px;
+    opacity: 85%
+}
+
+.comment-img {
+    width: 40px;
+    position: relative;
+    left: 100px;
+}
+
+.comment {
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+}
