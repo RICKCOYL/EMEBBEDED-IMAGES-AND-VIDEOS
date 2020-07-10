@@ -3,8 +3,7 @@
 This project is a replica of youtube player page
 
 ## Desktop
-![screenshot](https://github.com/RICKCOYL/EMEBBEDED-IMAGES-AND-VIDEOS/blob/homepage/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-EMEBBEDED-IMAGES-AND-VIDEOS-index-html-2020-07-10-11_12_06.pn)
-
+![screenshot](https://github.com/RICKCOYL/EMEBBEDED-IMAGES-AND-VIDEOS/blob/homepage/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-EMEBBEDED-IMAGES-AND-VIDEOS-index-html-2020-07-10-11_12_06.png)
 ## Built With
 
 - HTML,
