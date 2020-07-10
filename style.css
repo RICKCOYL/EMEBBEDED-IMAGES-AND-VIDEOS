@@ -1,0 +1,66 @@
+/*Styling of the nav bar*/
+
+nav div {
+    float: left;
+}
+
+.mid-nav-bar {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    top: 30px;
+}
+
+input {
+    width: 500px;
+}
+
+
+.right-nav-bar {
+    float: right;
+}
+
+.icon {
+    margin-right: 50px;
+    position: relative;
+    top: 17px;
+}
+
+.video {
+    width: 40px;
+}
+
+.bell {
+    width: 35px;
+}
+
+.avatar {
+    width: 40px;
+}
+
+.YouTube-logo {
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.menu-logo {
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
+
+.title {
+    position: relative;
+    left: 120px;
+    bottom: 58px;
+    font-size: 30px;
+}
+
+.video-player {
+    position: relative;
+    top: 100px;
+}
+
+/*Styling the main body section*/
