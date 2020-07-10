@@ -13,7 +13,7 @@ This project is a replica of youtube player page
 
 ## Live Demo
 
-<a href= "https://rawcdn.githack.com/RICKCOYL/embedding-images-and-video2/a77e9d502c03f5f9b1719a0b180b90f8b2b754f7/index.html" target="_blank">Live version</a>
+<a href= "https://rawcdn.githack.com/RICKCOYL/EMEBBEDED-IMAGES-AND-VIDEOS/26ae07db377bf2701d57b81bd02f8d5945bccf5f/index.html">Live version</a>
 
 ## Authors
 
