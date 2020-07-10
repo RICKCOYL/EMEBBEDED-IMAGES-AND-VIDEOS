@@ -129,14 +129,22 @@ iframe {
 
 .share-icon {
     height: 40px;
-    position: relative;
+    /*position: relative;
+    left: 410px;
+    bottom: 40px;*/
+}
+
+.share-btn{
+   position: relative;
     left: 410px;
     bottom: 40px;
+    border: none; 
+    background-color: white;
 }
 
 .share-text {
     position: relative;
-    left: 500px;
+    left: 505px;
     bottom: 40px;
     font-weight: bold;
     opacity: 70%;
