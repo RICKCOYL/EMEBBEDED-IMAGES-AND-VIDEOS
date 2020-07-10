@@ -14,6 +14,7 @@ nav div {
 
 input {
     width: 500px;
+    height: 18px;
 }
 
 
@@ -25,6 +26,16 @@ input {
     margin-right: 50px;
     position: relative;
     top: 17px;
+}
+
+.search-icon {
+    height: 15px;
+    width: 17px;
+}
+
+.search-button {
+    position: relative;
+    top: 3px;
 }
 
 .video {
@@ -43,19 +54,13 @@ input {
     position: relative;
     left: 40px;
     top: 20px;
+    height: 40px;
 }
 
 .menu-logo {
     position: relative;
     left: 40px;
     top: 10px;
-}
-
-.title {
-    position: relative;
-    left: 120px;
-    bottom: 58px;
-    font-size: 30px;
 }
 
 .video-player {
@@ -68,6 +73,8 @@ input {
 iframe {
     width: 700px;
     height: 400px;
+    position: relative;
+    right: 50px;
 }
 
 #video-tite {
@@ -166,6 +173,7 @@ iframe {
     color: white;
     border: none;
     border-radius: 20%;
+    cursor: pointer;
 }
 
 .sec-line {
@@ -219,40 +227,40 @@ iframe {
 /* aside section */
 
 #aside {
-  position: relative;
-  left: 900px;
-  bottom: 1120px;
-  border-bottom: 70px;
+    position: relative;
+    left: 900px;
+    bottom: 1120px;
+    border-bottom: 70px;
 }
 
 .first-image {
-  height: 100px;
+    height: 100px;
 }
 
 .first-image-title {
-  position: relative;
-  bottom: 90px;
-  font-weight: bold;
+    position: relative;
+    bottom: 90px;
+    font-weight: bold;
 }
 
 .first-image-views {
-  position: relative;
-  bottom: 30px;
-  right: 197px;
-  font-size: medium;
-  font-weight: bold;
-  opacity: 60%;
+    position: relative;
+    bottom: 30px;
+    right: 197px;
+    font-size: medium;
+    font-weight: bold;
+    opacity: 60%;
 }
 
 .streamed {
-  position: relative;
-  bottom: 60px;
-  right: 285px;
-  font-size: medium;
-  font-weight: bold;
-  opacity: 60%;
+    position: relative;
+    bottom: 60px;
+    right: 285px;
+    font-size: medium;
+    font-weight: bold;
+    opacity: 60%;
 }
 
 main {
-  overflow: hidden;
+    overflow: hidden;
 }
