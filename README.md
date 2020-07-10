@@ -3,7 +3,7 @@
 This project is a replica of youtube player page
 
 ## Desktop
-![screenshot](https://github.com/RICKCOYL/embeded-images-and-videos/blob/hompage/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-embeded-images-and-videos-index-html-2020-07-09-16_08_49.png)
+![screenshot](https://github.com/RICKCOYL/EMEBBEDED-IMAGES-AND-VIDEOS/blob/homepage/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-EMEBBEDED-IMAGES-AND-VIDEOS-index-html-2020-07-10-11_12_06.pn)
 
 ## Built With
 
@@ -28,7 +28,6 @@ This project is a replica of youtube player page
 👤 **Rick Oburu**
 
 - Github: [Rickcoyl](https://github.com/8Bts)
-- Twitter: [@Rasheed49705929](https://twitter.com/Rasheed49705929)
 - Linkedin: [rick oburu](https://www.linkedin.com/in/rick-oburu-8627591a4//)
 - Email: rickoburu@gmail.com
 
