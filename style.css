@@ -15,6 +15,8 @@ nav div {
 input {
     width: 500px;
     height: 18px;
+    position: relative;
+    bottom: 10px;
 }
 
 
@@ -23,7 +25,7 @@ input {
 }
 
 .icon {
-    margin-right: 50px;
+    margin-right: 20px;
     position: relative;
     top: 17px;
 }
@@ -35,32 +37,34 @@ input {
 
 .search-button {
     position: relative;
-    top: 3px;
+    bottom: 9px;
 }
 
 .video {
-    width: 40px;
+    width: 29px;
+    opacity: 80%;
 }
 
 .bell {
-    width: 35px;
+    width: 25px;
+    opacity: 80%;
 }
 
 .avatar {
-    width: 40px;
+    width: 29px;
 }
 
 .YouTube-logo {
     position: relative;
     left: 40px;
-    top: 20px;
+    top: 5px;
     height: 40px;
 }
 
 .menu-logo {
     position: relative;
-    left: 40px;
-    top: 10px;
+    left: 37px;
+    top: 1px;
 }
 
 .video-player {
@@ -99,52 +103,55 @@ iframe {
 /*styling of the info area*/
 
 .like {
-    width: 60px;
-    height: 50px;
+    height: 18px;
+    opacity: 70%;
+    position: relative;
+    left: 408px;
+    bottom: 35px;
 }
 
 .like-text {
     position: relative;
-    left: 396px;
-    bottom: 40px;
+    left: 411px;
+    bottom: 36px;
     font-weight: bold;
     opacity: 70%;
 }
 
 .dislike {
-    width: 40px;
-    height: 40px;
+    height: 18px;
     position: relative;
-    left: 410px;
+    left: 432px;
+    opacity: 70%;
+    bottom: 32px;
 }
 
 .dislike-text {
     position: relative;
-    left: 308px;
-    bottom: 40px;
+    left: 355px;
+    bottom: 37px;
     font-weight: bold;
     opacity: 70%;
 
 }
 
 .share-icon {
-    height: 40px;
-    /*position: relative;
-    left: 410px;
-    bottom: 40px;*/
+    height: 18px;
+
 }
 
-.share-btn{
-   position: relative;
-    left: 410px;
-    bottom: 40px;
-    border: none; 
+.share-btn {
+    position: relative;
+    left: 430px;
+    bottom: 36px;
+    border: none;
     background-color: white;
+    opacity: 70%;
 }
 
 .share-text {
     position: relative;
-    left: 505px;
+    left: 500px;
     bottom: 40px;
     font-weight: bold;
     opacity: 70%;
@@ -152,6 +159,10 @@ iframe {
 
 }
 
+.rating {
+    position: relative;
+
+}
 
 .line {
     width: 700px;
